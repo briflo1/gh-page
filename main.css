@@ -10,10 +10,13 @@ body
 	font-family : arial, verdana, sans-serif;
 	font-size : 12px;
 }
-p
+h1
 {
-
+	padding : 10px;
+	height : 60px;
+	z-index : 2;
 }
+
 .header
 {
 	background-color: #99B5DD;
