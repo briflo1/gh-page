@@ -5,6 +5,14 @@ html
 body
 {
 	height: 100%;
+	color : #000000;
+	background-color : #ffffff;
+	font-family : arial, verdana, sans-serif;
+	font-size : 12px;
+}
+p
+{
+
 }
 .header
 {
